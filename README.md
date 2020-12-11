@@ -7,10 +7,10 @@
 - 💬 Ask me about problem I will try to give something back to solve it.
 - 📫 How to reach me: <p>
   <a href="https://www.linkedin.com/in/chintan992/">
-    <img align="left" alt="Chintan LinkedIN" width="24px" style="background:SkyBlue" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/svgs/brands/linkedin.svg" />
+    <img align="left" alt="Chintan LinkedIN" width="24px" fill="#0077B5" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/svgs/brands/linkedin.svg" />
   </a>
   <a href="https://twitter.com/sid992r">
-    <img align="left" alt="Chintan Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+    <i align="left" alt="Chintan Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UCcv6wFNEMSFtRbi7q91YG7w">
     <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
