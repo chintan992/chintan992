@@ -7,19 +7,19 @@
 - 💬 Ask me about problem I will try to give something back to solve it.
 - 📫 How to reach me: <p>
   <a href="https://www.linkedin.com/in/chintan992/">
-    <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Chintan LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/sid992r">
-    <img align="left" alt="Sumanjay Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+    <img align="left" alt="Chintan Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UCcv6wFNEMSFtRbi7q91YG7w">
-    <img align="left" alt="Sumanjay YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+    <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
   </a>
   <a href="https://instagram.com/chintan992">
-    <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+    <img align="left" alt="Chintan Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
   <a href="https://telegram.dog/chintan992">
-    <img align="left" alt="Sumanjay Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+    <img align="left" alt="Chintan Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
 </p>
 
