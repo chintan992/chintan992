@@ -7,19 +7,19 @@
 - 💬 Ask me about problem I will try to give something back to solve it.
 - 📫 How to reach me: <p>
   <a href="https://www.linkedin.com/in/chintan992/">
-    <img align="left" alt="Chintan LinkedIN" width="24px" fill="#0077B5" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/svgs/brands/linkedin.svg" /></i>
+    <img align="left" alt="Chintan LinkedIN" width="70px" src="https://cdn.svgporn.com/logos/linkedin.svg" /></i>
   </a>
-  <a href="https://twitter.com/sid992r" style="background:SkyBlue">
-    <i align="left" alt="Chintan Twitter" width="24px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/reference/twitter.svg" />
+  <a href="https://twitter.com/sid992r">
+    <img align="left" alt="Chintan Twitter" width="24px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/reference/twitter.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UCcv6wFNEMSFtRbi7q91YG7w">
-    <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+    <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/reference/youtube.svg" />
   </a>
   <a href="https://instagram.com/chintan992">
-    <img align="left" alt="Chintan Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+    <img align="left" alt="Chintan Instagram" width="24px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/reference/instagram.svg" />
   </a>
   <a href="https://telegram.dog/chintan992">
-    <img align="left" alt="Chintan Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+    <img align="left" alt="Chintan Telegram" width="24px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/reference/telegram.svg" />
   </a>
 </p>
 
