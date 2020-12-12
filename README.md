@@ -16,7 +16,7 @@
     <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.svgporn.com/logos/youtube.svg" />
   </a>
   <a href="https://instagram.com/chintan992">
-    <img align="left" alt="Chintan Instagram" width="24px" src="https://cdn.svgporn.com/logos/instagram.svg" />
+    <img align="left" alt="Chintan Instagram" width="24px" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />
   </a>
   <a href="https://telegram.dog/chintan992">
     <img align="left" alt="Chintan Telegram" width="24px" src="https://cdn.svgporn.com/logos/telegram.svg" />
