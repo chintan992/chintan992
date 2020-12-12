@@ -13,7 +13,7 @@
     <img align="left" alt="Chintan Twitter" width="24px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UCcv6wFNEMSFtRbi7q91YG7w">
-    <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.svgporn.com/logos/YouTube.svg" />
+    <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.svgporn.com/logos/youtube.svg" />
   </a>
   <a href="https://instagram.com/chintan992">
     <img align="left" alt="Chintan Instagram" width="24px" src="https://cdn.svgporn.com/logos/instagram.svg" />
