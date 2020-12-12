@@ -30,7 +30,7 @@
 
 ### Skills 👨‍💻
 
-<img align="left" alt="GitHub" width="24px" src="https://cdn.svgporn.com/logos/github.svg" />
+<img align="left" alt="GitHub" width="24px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
 <img align="left" alt="MySQL" width="24px" src="https://cdn.svgporn.com/logos/mysql.svg" />
 <img align="left" alt="JavaScript" width="24px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="HTML" width="24px" src="https://cdn.svgporn.com/logos/html5.svg" />
@@ -40,8 +40,8 @@
 <img align="left" alt="cPanel" width="24px" src="https://cdn.svgporn.com/logos/cpanel.svg" />
 <img align="left" alt="Adobe XD Designer" width="24px" src="https://cdn.svgporn.com/logos/adobexd.svg" />
 <img align="left" alt="Pokemon go Hack" width="24px" src="https://cdn.svgporn.com/logos/pokemon.svg" />
-<img align="left" alt="VSCode" width="24px" src="https://cdn.svgporn.com/logos/visualstudiocode.svg" />
-<img align="left" alt="Wordpress Designer" width="24px" src="https://cdn.svgporn.com/logos/wordpress.svg" />
+<img align="left" alt="VSCode" width="24px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
+<img align="left" alt="Wordpress Designer" width="24px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg" />
 <img align="left" alt="Linux administrator" width="24px" src="https://cdn.svgporn.com/logos/ubuntu.svg" />
 </br>
 </br>
