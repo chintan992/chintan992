@@ -6,21 +6,15 @@
 - 🤔 I’m looking for help to search job in which my growth doesn't stop!
 - 💬 Ask me about problem I will try to give something back to solve it.
 - 📫 How to reach me: <p>
-  <a href="https://www.linkedin.com/in/chintan992/">
-    <img align="left" alt="Chintan LinkedIN" width="70px" src="https://cdn.svgporn.com/logos/linkedin.svg" /></i>
-  </a>
-  <a href="https://twitter.com/sid992r">
-    <img align="left" alt="Chintan Twitter" width="24px" src="https://cdn.svgporn.com/logos/twitter.svg" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCcv6wFNEMSFtRbi7q91YG7w">
-    <img align="left" alt="Chintan YouTube" width="24px" src="https://cdn.svgporn.com/logos/youtube.svg" />
-  </a>
-  <a href="https://instagram.com/chintan992">
-    <img align="left" alt="Chintan Instagram" width="24px" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />
-  </a>
-  <a href="https://telegram.dog/chintan992">
-    <img align="left" alt="Chintan Telegram" width="24px" src="https://cdn.svgporn.com/logos/telegram.svg" />
-  </a>
+  [![Gmail](https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=Gmail)](mailto:chintanr21@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintan992/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/chintan992/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chintan992/)
+  </br>
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/chintan992/)
+  [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com/chintan992/)
+  [![GitLab](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.gitlab.com/chintan992/)
+  [![GitLab](https://img.shields.io/badge/Telegram-330F63?style=for-the-badge&logo=telegram&logoColor=white)](https://www.gitlab.com/chintan992/)
 </p>
 
 </br>
@@ -30,20 +24,10 @@
 
 ### Skills 👨‍💻
 
-<img align="left" alt="GitHub" width="24px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
-<img align="left" alt="MySQL" width="24px" src="https://cdn.svgporn.com/logos/mysql.svg" />
-<img align="left" alt="JavaScript" width="24px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.svgporn.com/logos/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="https://cdn.svgporn.com/logos/css3.svg" />
-<img align="left" alt="AWS" width="24px" src="https://cdn.svgporn.com/logos/amazonaws.svg" />
-<img align="left" alt="Cloudflare" width="24px" src="https://cdn.svgporn.com/logos/cloudflare.svg" />
-<img align="left" alt="cPanel" width="24px" src="https://cdn.svgporn.com/logos/cpanel.svg" />
-<img align="left" alt="Adobe XD Designer" width="24px" src="https://cdn.svgporn.com/logos/adobexd.svg" />
-<img align="left" alt="Pokemon go Hack" width="24px" src="https://cdn.svgporn.com/logos/pokemon.svg" />
-<img align="left" alt="VSCode" width="24px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
-<img align="left" alt="Wordpress Designer" width="24px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg" />
-<img align="left" alt="Linux administrator" width="24px" src="https://cdn.svgporn.com/logos/ubuntu.svg" />
-</br>
+ 
+ [![GitLab](https://img.shields.io/badge/Git-330F63?style=for-the-badge&logo=git&logoColor=white)](https://www.gitlab.com/chintan992/)
+ 
+<br>
 </br>
 
 ### Stats ⚡️
