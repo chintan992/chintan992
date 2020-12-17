@@ -1,3 +1,5 @@
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on personal Project
@@ -24,9 +26,7 @@
 
 ### Skills 👨‍💻
 
- 
- [![GitLab](https://img.shields.io/badge/Git-330F63?style=for-the-badge&logo=git&logoColor=white)](https://www.gitlab.com/chintan992/)
- 
+[![GitLab](svg/git.svg)](https://www.gitlab.com/chintan992/)
 <br>
 </br>
 
