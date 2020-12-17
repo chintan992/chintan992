@@ -24,11 +24,35 @@
 
 ### Skills 👨‍💻
 
- 
- [![GitLab](https://img.shields.io/badge/Git-330F63?style=for-the-badge&logo=git&logoColor=white)](https://www.gitlab.com/chintan992/)
- 
-<br>
-</br>
+<p> 
+ <img height="32" width="32" style='fill:#adadad' src="svg/git.svg" />
+ <img height="32" width="32"	src="svg/amazonaws.svg">
+  <img height="32" width="32"	src="svg/anaconda.svg">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</p>
 
 ### Stats ⚡️
 
