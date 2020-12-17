@@ -25,7 +25,7 @@
 ### Skills 👨‍💻
 
  
- [![GitLab](https://img.shields.io/badge/Git-330F63?style=for-the-badge&logo=git&logoColor=white)](https://www.gitlab.com/chintan992/)
+
  
 <br>
 </br>
