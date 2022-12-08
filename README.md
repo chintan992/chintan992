@@ -20,7 +20,7 @@
 </br>
 </br>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chintan992/&title=Profile%20Views)
+
 
 ### Skills 👨‍💻
 
