@@ -54,6 +54,3 @@
   
 </p>
 
-### Stats ⚡️
-
-![Github Stats](https://readmestats.vercel.app/api?username=chintan992&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
