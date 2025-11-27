@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Chintan Rathod
 
-A passionate Full-Stack Developer from India with a love for building innovative and efficient applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+A passionate Full-Stack Developer from Calgary, Alberta, CA with a love for building innovative and efficient applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chintan-rathod-53691a122/" target="_blank">
@@ -16,8 +16,8 @@ A passionate Full-Stack Developer from India with a love for building innovative
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **letsstream2, letsstream-flutter-v2, and atoms(weather app)**.
-- 🌱 I’m always learning, currently diving deeper into **Python, Node.js, and Telegram Bots**.
-- 👯 I’m looking to collaborate on **innovative web and mobile app projects**.
+- 🌱 I’m always learning, currently diving deeper into **Python, Node.js, and AI WorkFlows**.
+- 👯 I’m looking to collaborate on **innovative web, mobile app projects and one stop solutions**.
 - 💬 Ask me about **Flutter, Dart, Python, Flask, or anything related to tech!**
 - 📫 How to reach me: **chintanr21@gmail.com**
 - 😄 Fun fact: I believe the right playlist can solve any coding bug.
