@@ -74,6 +74,12 @@ A passionate Full-Stack Developer from Calgary, Alberta, CA with a love for buil
 
 ---
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chintan992">
+</a>
+<a href="https://github.com/chintan992?tab=followers"><img src="https://img.shields.io/github/followers/chintan992?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
 ### 📊 My GitHub Stats
 
 <p align="center">
